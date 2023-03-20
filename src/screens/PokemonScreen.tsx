@@ -8,7 +8,7 @@ import {
   View,
 } from 'react-native';
 import {StackScreenProps} from '@react-navigation/stack';
-import {RootStackParams} from '../navigation/Navigator';
+import {RootStackParams} from '../navigation/ListTab';
 import Icon from 'react-native-vector-icons/Ionicons';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import {FadeInImage} from '../components/FadeInImage';
