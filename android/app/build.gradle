@@ -99,9 +99,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.pokedex"
+    namespace "com.ghernagon.pokedex"
     defaultConfig {
-        applicationId "com.pokedex"
+        applicationId "com.ghernagon.pokedex"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

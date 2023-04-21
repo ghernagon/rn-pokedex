@@ -1,4 +1,4 @@
-package com.pokedex;
+package com.ghernagon.pokedex;
 
 import org.devio.rn.splashscreen.SplashScreen;
 
